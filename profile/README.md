@@ -3,6 +3,15 @@
 [![License](https://img.shields.io/badge/license-Private-red.svg)](LICENSE)
 [![Astar Network](https://img.shields.io/badge/Network-Astar-blue.svg)](https://astar.network/)
 [![Soneium](https://img.shields.io/badge/Network-Soneium-green.svg)](https://soneium.org/)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-000000?style=for-the-badge&logo=rainbowkit&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 
 Aradia Launchpad is an all-in-one platform designed to empower creators, communities, and projects to thrive within the Astar and Soneium ecosystems.
 
