@@ -20,13 +20,13 @@ You can check Aradia DEMO here: [aradia.app](https://aradia.app)
 
 ## Platform Screenshots
 
-![Dashboard Overview](img/home.jpg)
+![Dashboard Overview](/img/home.jpg)
 
-![Dashboard Overview](img/home2.jpg)
+![Dashboard Overview](/img/home2.jpg)
 
-![MintToken Overview](img/mintToken.jpg)
+![MintToken Overview](/img/mintToken.jpg)
 
-![MintNFT Overview](img/mintNFT.jpg)
+![MintNFT Overview](/img/mintNFT.jpg)
 
 
 
