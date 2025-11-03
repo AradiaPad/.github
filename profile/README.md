@@ -19,7 +19,7 @@
 Aradia Launchpad is an all-in-one platform designed to empower creators, communities, and projects to thrive within the Astar and Soneium ecosystems.
 
 You can check Aradia here: [aradia.app](https://aradia.app)  
-*(DEMO is running on Astar Shibuya Testnet)*
+*(running on Astar and Shibuya Testnet)*
 
 ## Platform Screenshots
 
